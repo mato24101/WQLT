@@ -1,4 +1,8 @@
-Record=TopLevelDocument|FileName=WQLT.SchDoc
+Record=TopLevelDocument|FileName=MAIN.SchDoc
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_ESP32|SchDesignator=U_ESP32|FileName=ESP32.SchDoc|SymbolType=Normal|RawFileName=ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_FTDI|SchDesignator=U_FTDI|FileName=FTDI.SchDoc|SymbolType=Normal|RawFileName=FTDI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_WQLT|SchDesignator=U_WQLT|FileName=WQLT.SchDoc|SymbolType=Normal|RawFileName=WQLT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=WQLT.SchDoc|Designator=U_DO_EZO_1|SchDesignator=U_DO_EZO_1|FileName=DO_EZO_1.SchDoc|SymbolType=Normal|RawFileName=DO_EZO_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=WQLT.SchDoc|Designator=U_DO_EZO_2|SchDesignator=U_DO_EZO_2|FileName=DO_EZO_2.SchDoc|SymbolType=Normal|RawFileName=DO_EZO_2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=WQLT.SchDoc|Designator=U_pH_EZO_1|SchDesignator=U_pH_EZO_1|FileName=pH_EZO_1.SchDoc|SymbolType=Normal|RawFileName=pH_EZO_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
