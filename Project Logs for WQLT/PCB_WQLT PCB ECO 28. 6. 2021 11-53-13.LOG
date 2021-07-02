@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=BOOT NewDesignator=BOOT1
+Change Component Designator: OldDesignator=RST NewDesignator=RST1
+Added Pin To Net: NetName=DTS# Pin=J1-2
+Change Net Name : Old Net Name=DTS# New Net Name=DTS

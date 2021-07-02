@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=EN_4 Pin=Q7-1
+Removed Pin From Net: NetName=EN_2 Pin=Q8-1
+Removed Pin From Net: NetName=EN_6 Pin=Q9-1
+Removed Pin From Net: NetName=EN_1 Pin=Q10-1
+Removed Pin From Net: NetName=EN_5 Pin=Q11-1
+Removed Pin From Net: NetName=EN_3 Pin=Q12-1
+Removed Pin From Net: NetName=EN_4 Pin=R40-2
+Removed Pin From Net: NetName=EN_2 Pin=R49-2
+Removed Pin From Net: NetName=EN_6 Pin=R58-2
+Removed Pin From Net: NetName=EN_1 Pin=R71-2
+Removed Pin From Net: NetName=EN_5 Pin=R81-2
+Removed Pin From Net: NetName=EN_3 Pin=R90-2
+Added Pin To Net: NetName=EN_5 Pin=Q7-1
+Added Pin To Net: NetName=EN_1 Pin=Q8-1
+Added Pin To Net: NetName=EN_3 Pin=Q9-1
+Added Pin To Net: NetName=EN_2 Pin=Q10-1
+Added Pin To Net: NetName=EN_6 Pin=Q11-1
+Added Pin To Net: NetName=EN_4 Pin=Q12-1
+Added Pin To Net: NetName=EN_5 Pin=R40-2
+Added Pin To Net: NetName=EN_1 Pin=R49-2
+Added Pin To Net: NetName=EN_3 Pin=R58-2
+Added Pin To Net: NetName=EN_2 Pin=R71-2
+Added Pin To Net: NetName=EN_6 Pin=R81-2
+Added Pin To Net: NetName=EN_4 Pin=R90-2
+Added Room: Name=U_ESP32
+Added Room: Name=U_FTDI
+Added Room: Name=U_Power
+Added Room: Name=U_Temp
+Added Room: Name=U_WQLT

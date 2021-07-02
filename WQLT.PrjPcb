@@ -258,6 +258,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFFCHSGX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for WQLT\Design Rule Check - PCB_WQLT.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
