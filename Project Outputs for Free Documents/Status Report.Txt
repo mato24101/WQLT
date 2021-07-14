@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:15:12 On 7. 7. 2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [WQLT.PrjPcb]
+   Generated File[Bill of Materials-WQLT.xls]
+   Generated File[Bill of Materials-WQLT.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:15:14 On 7. 7. 2021

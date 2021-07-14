@@ -1,0 +1,11 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [WQLT.PrjPcb]
+   Generated File[PCB_WQLT.TXT]
+   Generated File[PCB_WQLT.LDP]
+   Generated File[PCB_WQLT.DRR]
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:47:17 On 7. 7. 2021
